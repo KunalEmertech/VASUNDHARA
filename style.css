@@ -285,6 +285,7 @@ header .logo {
     color: lightgrey;
     text-shadow: .05rem .05rem #000;
     font-size: 3rem;
+    padding-left: 40px;
 }
 
 .ourwork p {
@@ -293,6 +294,8 @@ header .logo {
     padding-top: 20px;
     padding-bottom: 30px;
     color: lightyellow;
+    width: 50%;
+    padding-left: 40px;
 }
 
 .ourwork p a {
